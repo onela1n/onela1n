@@ -1,3 +1,5 @@
+[![header-gif](https://c.tenor.com/qeyN2cl_GBsAAAAd/tenor.gif)](https://kardiola.ru)
+
 # 💫 About Me:
 I am a Penetration Tester and Security Researcher focused on identifying vulnerabilities and securing digital assets. My passion lies in continuous learning and exploring emerging technologies, novel attack vectors, and defensive mechanisms. I approach cybersecurity with an analytical mindset, treating every system as a puzzle to solve.
 
